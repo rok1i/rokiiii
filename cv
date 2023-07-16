@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+    
+
+    <table> width="700" align="center" border="1">
+        <tr>
+            </td>
+            <td colspan="3">
+                <h2>Muhamed Gashi</h2>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <h2>Education</h2>
+                <ul>
+                    <li>
+                        <b>High School: "Xhevded Doda" Prishtine </b>
+                   
+                    </li>
+                    <li>
+                        <b>University of Pristina "Hasan Prishtina"- Faculty of Electrical and Computer Engineering dropout </b>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <h2>Skills</h2>
+            </td>
+        </tr>
+        <tr valign="top">
+            </td>
+            <td>
+                <ul>
+                    <li>Gaming</li>
+                    <li>Smoking</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>English: 100%</li>
+                    <li>German:100%</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
